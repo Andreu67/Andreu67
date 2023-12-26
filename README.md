@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=50&size=39&pause=1000&color=228B22&random=false&width=435&lines=Andreu+Alonso+Casas%C3%BAs)](https://git.io/typing-svg)
 
 ###
 
