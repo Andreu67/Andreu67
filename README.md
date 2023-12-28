@@ -4,6 +4,10 @@
 
 ###
 
+<br clear="both">
+
+###
+
 <div align="center">
   <a href="https://discordapp.com/users/1079032304535621772" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -32,9 +36,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andreu67.Andreu67&"  />
 </div>
 
-<h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=50&size=33&pause=1000&color=228B22&random=false&width=435&lines=Andreu+Alonso+Casas%C3%BAs" alt="Typing SVG" /></a>
-</h1>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -124,8 +125,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Andreu67/Andreu67/output/snake.svg" alt="Snake animation" />
 
 ###
 
