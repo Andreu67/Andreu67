@@ -144,7 +144,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Andreu67/Andreu67/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
   
   <br/><br/><br/>
 </div>
